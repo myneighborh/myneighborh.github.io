@@ -18,7 +18,7 @@ share: false
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 300px;
+    height: 150px;
     overflow: hidden;
   }
   .image-grid .image-box img {
@@ -139,8 +139,6 @@ share: false
   <div class="image-box"><img src="https://github.com/user-attachments/assets/48e3a6dc-f175-4932-bc23-a782fdfd554b"></div>
   <div class="image-box"></div>
 </div>
-</details>
-
 </details>
 
 ---
