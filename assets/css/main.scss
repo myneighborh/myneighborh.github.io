@@ -7,3 +7,28 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* 전체 카드 높이를 통일 */
+.feature__item {
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  height: 100%;
+}
+
+/* 이미지 높이 고정 및 비율 유지 */
+.archive__item-teaser img {
+  height: 180px;
+  object-fit: cover;
+  width: 100%;
+  display: block;
+}
+
+/* 텍스트 부분이 밑으로 밀려 정렬되도록 */
+.archive__item-body {
+  margin-top: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-grow: 1;
+}
