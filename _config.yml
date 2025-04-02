@@ -350,4 +350,6 @@ defaults:
       classes: wide
       comments: # true
       related: true
+      sidebar:
+        disable: true
 
