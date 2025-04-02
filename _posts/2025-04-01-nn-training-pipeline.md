@@ -1,7 +1,7 @@
 ---
 title: "A Structured Overview of the Neural Network Training Pipeline"
 layout: single
-math: true
+use_math: true
 date: 2024-04-01
 category: [deeplearning]
 header:
