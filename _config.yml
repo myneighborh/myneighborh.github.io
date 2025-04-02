@@ -345,9 +345,11 @@ defaults:
       type: "posts"
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
-      # classes: wide
+      classes: wide
       comments: # true
       related: true
+      sidebar:
+        disable: true
 
