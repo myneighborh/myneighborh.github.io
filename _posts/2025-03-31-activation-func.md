@@ -1,8 +1,6 @@
 ---
 title: "Activation functions"
 layout: single
-sidebar:
-  disable: true
 date: 2024-03-31
 category: [deeplearning]
 header:
