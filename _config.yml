@@ -334,7 +334,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      # classes: wide
+      classes: wide
       comments: # true
       related: true
       
