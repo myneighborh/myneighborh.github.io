@@ -1,5 +1,5 @@
 ---
-title: "Activation functions"
+title: "Activation Function"
 layout: single
 date: 2024-03-31
 category: [deeplearning]
@@ -12,8 +12,7 @@ header:
 
 뉴런(노드) 출력값을 비선형 함수에 통과시켜주는 함수.
 
-### 왜 필요한가?
-
+**왜 필요한가?**
 - Activation Function이 없다면, 아무리 여러 층을 쌓아도 전체는 선형 함수로 수렴됨
 - 복잡한 문제를 해결하기 위해 모델에 '비선형성'을 부여해야 함
 
@@ -102,7 +101,7 @@ ReLU보다 계산 복잡도 높고 처리 속도가 느림
 
 ---
 
-## 6. Swish (Google 제안)
+## 6. Swish
 
 ![Swish](https://github.com/user-attachments/assets/605d3b35-7164-41ba-b439-eec2c4ebbc0c)  
 <img width="198" alt="Swish Detail" src="https://github.com/user-attachments/assets/3ac99f8b-8286-4426-8a92-d0a3905019ed" />
@@ -119,7 +118,7 @@ Sigmoid를 곱하면 다시 기울기 소실이 생기지 않을까?
 
 ---
 
-## 7. GELU (BERT, GPT 사용)
+## 7. GELU
 
 ![GELU](https://github.com/user-attachments/assets/36f7aecc-7007-45f8-9cc3-5af132737d07)  
 <img width="411" alt="GELU Detail" src="https://github.com/user-attachments/assets/6af0d5d2-edc0-4a96-8a75-58cf47603f40" />
