@@ -100,9 +100,6 @@ def soft_max(x):
 
 By subtracting the maximum value, we maintain numerical stability  
 **without affecting the output probabilities**.
-
-<br>
-
 <img width="336" alt="image" src="https://github.com/user-attachments/assets/e78cb98b-8421-4200-a3af-1073dad4f40f" /><br>
 <img width="301" alt="image" src="https://github.com/user-attachments/assets/fba9a07a-335d-4137-b443-a29fd89c9ccc" /><br>
 <img width="322" alt="image" src="https://github.com/user-attachments/assets/21c46edf-fcf9-40f0-9e3f-bf644bd68db2" />
