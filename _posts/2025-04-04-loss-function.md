@@ -5,7 +5,7 @@ math: true
 date: 2024-04-04
 category: [deeplearning]
 header:
-  teaser: 
+  teaser: https://github.com/user-attachments/assets/be2fa4dd-597c-464c-b488-0525ab7f1638
 ---
 <!--more-->
 
