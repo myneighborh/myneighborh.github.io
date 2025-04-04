@@ -8,8 +8,16 @@ header:
   teaser: 
 ---
 <!--more-->
-예를 들어 \( \log(1) = 0 \) 입니다.
+## 인라인 수식
 
-$$ 
-\text{Loss} = - \sum_{i=1}^{C} y_i \log(\hat{y}_i)
+예를 들어 \\( \log(1) = 0 \\) 입니다.
+
+## 블록 수식
+
+$$
+\text{Loss} = -\sum_{i=1}^{C} y_i \log(\hat{y}_i)
+$$
+
+$$
+\text{Loss} = -\sum_{i=1}^{C} y_i \log(\hat{y}_i)
 $$
