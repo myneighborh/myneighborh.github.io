@@ -209,8 +209,11 @@ incremental: false
 
 # Markdown Processing
 kramdown:
-  math_engine: mathjax
   input: GFM
+  math_engine: mathjax
+  syntax_highlighter_opts:
+  block:
+    line_numbers: false
   hard_wrap: false
   auto_ids: true
   footnote_nr: 1
