@@ -1,5 +1,5 @@
 ---
-title: "Loss Function"
+title: "Loss Functions and Cross Entropy"
 layout: single
 math: true
 date: 2024-04-04
