@@ -5,11 +5,14 @@ math: true
 date: 2024-04-04
 category: [deeplearning]
 header:
-  teaser: https://github.com/user-attachments/assets/be2fa4dd-597c-464c-b488-0525ab7f1638
+  teaser: https://github.com/user-attachments/assets/099e6dc5-aaa2-4da3-b7b5-a54467fd64d7
 ---
 <!--more-->
 
+
 # 손실 함수(Loss Function) 수식 정리
+## Forward Propagation Flow Summary
+<img width="488" alt="image" src="https://github.com/user-attachments/assets/099e6dc5-aaa2-4da3-b7b5-a54467fd64d7" />
 
 ---
 
